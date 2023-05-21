@@ -12,8 +12,17 @@
 <a href="https://linkedin.com/in/dawlbaev" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/dawlbaev" target="_blank">
-  <img src="https://img.shields.io/twitter/url?style=social">
+<a href="https://instagram.com/timur_dawlbaev" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.youtube.com/@dawlbaev" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>  
+<a href="https://discord.gg/dawlbaev">
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitch.tv/dawlbaev">
+<img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white style="margin-bottom: 5px;" />
 </a>
 <!--
 **Dawlbaev/Dawlbaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
