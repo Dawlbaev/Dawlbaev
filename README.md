@@ -24,7 +24,7 @@
       Timur Dawlbaev is Bug Bounter
     </td>
     <td valign="top" width="50%">
-      <img src="https://github.com/LuNiZz/lunizz/raw/main/avatar2.JPG" align="right" style="width: 50%" />
+      <img src="https://github.com/dawlbaev/dawlbaev/raw/main/timur.JPG" align="right" style="width: 50%" />
     </td>
   </tr>
 </table>
