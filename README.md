@@ -1,11 +1,5 @@
 ## Aq shapkili Shabandoz 👋 Timur Dawlbaev
-<table>
-  <tr>
-    <td>
-      Timur Dawlbaev is Bug Bounter
-    </td>
-  </tr>
-</table>
+
 <a href="https://twitter.com/dawlbaev" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
@@ -24,6 +18,17 @@
 <a href="https://twitch.tv/dawlbaev">
 <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white style="margin-bottom: 5px;" />
 </a>
+<table>
+  <tr>
+    <td>
+      Timur Dawlbaev is Bug Bounter
+    </td>
+  </tr>
+</table>
+
+
+
+
 <!--
 **Dawlbaev/Dawlbaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
