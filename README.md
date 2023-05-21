@@ -12,6 +12,9 @@
 <a href="https://linkedin.com/in/dawlbaev" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+<a href="https://twitter.com/dawlbaev" target="_blank">
+  <img src="https://img.shields.io/twitter/url?style=social">
+</a>
 <!--
 **Dawlbaev/Dawlbaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
