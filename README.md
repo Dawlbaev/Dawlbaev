@@ -22,7 +22,6 @@
   <tr>
     <td valign="top" width="50%">
       - Timur Dawlbaev is Bug Bounter <br>
-      
       - ☁️🍺✈️⚽🏈🎾🎮 <br>
     </td>
     <td valign="top" width="50%">
