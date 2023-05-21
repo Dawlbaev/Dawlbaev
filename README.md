@@ -20,8 +20,11 @@
 </a>
 <table>
   <tr>
-    <td>
+    <td valign="top" width="50%">
       Timur Dawlbaev is Bug Bounter
+    </td>
+    <td valign="top" width="50%">
+      
     </td>
   </tr>
 </table>
