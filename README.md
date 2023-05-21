@@ -21,7 +21,9 @@
 <table>
   <tr>
     <td valign="top" width="50%">
-      Timur Dawlbaev is Bug Bounter
+      - Timur Dawlbaev is Bug Bounter
+      
+      - ☁️🍺✈️⚽🏈🎾🎮 
     </td>
     <td valign="top" width="50%">
       <img src="https://github.com/Dawlbaev/Dawlbaev/blob/main/timur.jpg" align="right" style="width: 50%" />
